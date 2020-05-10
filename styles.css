@@ -1,0 +1,41 @@
+/* add your CSS here */
+body {
+    /*Font family foe whole card*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cat {
+    /*To fix size of image upto given for project*/
+    margin-left: 8px;
+    width: 300px;
+    height: 200px;
+}
+h3 {
+    margin-left: 10px;
+}
+.card {
+    /*To make card look like a card and container for information*/
+    position: relative;
+    height: 600px;
+    width: 320px;
+    padding: 10px;
+    box-shadow: 15px 25px 20px 2px grey;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.facts {
+    width: 292px;
+    padding-left: 5px;
+    margin-left: 9px;
+    margin-top: 10px;
+    position: absolute;
+    border: 1px solid grey;
+}
+ul {
+    /*display: inline; <== This can also be used instead of margin but this will add extra space due to padding.*/
+    display: block;
+    margin-left: -40px;
+    list-style-type:none
+}
+span {
+    font-weight: bold;
+}
