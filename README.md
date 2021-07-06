@@ -1,8 +1,27 @@
-# Animal-Card
 
-Simple Html and Css only Animal Information Card.
+# Animal Card
 
-# Contains two files :
-card.html    //for design
+A Basic animal information card using html and css.
 
-styles.css   //for styling
+
+## Files
+
+#### Image used in card
+
+cat.jpg
+
+#### Card image used for reference
+
+design-prototype.png
+
+#### Image size reference
+
+placeholder.png
+
+#### Styling
+
+styles.css
+
+#### HTML Card
+
+card.html
